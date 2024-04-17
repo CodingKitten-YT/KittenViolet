@@ -1,7 +1,7 @@
 {
-  "name": "Ultraviolet App",
-  "description": "Node.js Ultraviolet instance",
-  "repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
-  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
-  "keywords": ["tomp", "ultraviolet"]
+  "name": "KittenViolet",
+  "description": "Unblocker for KittenGames",
+  "repository": "https://github.com/CodingKitten-YT/KittenViolet",
+  "logo": "https://raw.githubusercontent.com/KittenGames/kittengames.github.io/main/icon.png",
+  "keywords": ["KittenGames", "Unblocker"]
 }
